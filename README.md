@@ -1,6 +1,6 @@
 # Oasis-Infobyte-Web-Development-Internship-Task
-<h1>This is Level 2 task 1 --> A Basic Calculator </h1>
-<h2>Using html,css and javascript</h2>
+<h1>This is Level 2 task 1 --> A Calculator </h1>
+
 <a href="https://ibb.co/x6zgRMz"><img src="https://i.ibb.co/SBVm9KV/Level-2-task-1.png" alt="Level-2-task-1" border="0"></a>
 <br>
 <h1>This is Level 2 task 2 --> Tribute Page </h1>
